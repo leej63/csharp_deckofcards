@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.pdb
